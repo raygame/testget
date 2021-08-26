@@ -1,2 +1,2 @@
-# testget
-testing get
+# TestGit
+testing git
